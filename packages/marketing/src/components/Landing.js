@@ -136,7 +136,7 @@ export default function Album() {
                       View
                     </Button>
                     <Button size="small" color="primary">
-                      Edit
+                      Change
                     </Button>
                   </CardActions>
                 </Card>
